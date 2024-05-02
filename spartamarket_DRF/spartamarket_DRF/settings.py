@@ -37,8 +37,8 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
-    'accounts',  # accounts 추가
-    'products',  # products 
+    'accounts',  
+    'products',  
     'rest_framework',
     'django_extensions',
     'django_seed',
